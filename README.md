@@ -9,7 +9,7 @@
 - What a combobox can be
 - Conundrums of a combobox
 - What role="combobox" means
-- How the simplest combox works: the <select> element
+- How the simplest combox works: the `<select>` element
 - What an autocomplete combobox looks like
 - How HTML attributes connect everything together
 - Building our own combobox
